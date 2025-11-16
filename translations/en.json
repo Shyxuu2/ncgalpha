@@ -11,7 +11,7 @@
     "title": "Integrated Urban Intelligence",
     "subtitle": "Strategy • Design • Delivery • Innovation • Investment • Education",
     "exploreDivisions": "Explore the Six Divisions",
-    "aboutDamien": "About Dr Damien Nouvel"
+    "aboutNCG": "Leadership & Expertise"
   },
   "divisions": {
     "label": "Divisions",
@@ -44,18 +44,25 @@
   "about": {
     "label": "About NCG Alpha",
     "title": "Intelligence that shapes cities",
-    "description": "NCG Alpha is a multidisciplinary real estate and urban development platform founded by Dr. Damien Nouvel. It unites six specialized entities that together cover the full development spectrum from market strategy to design, execution, education, innovation, and investment. Based in Riyadh and Dubai, NCG Alpha blends European academic rigor with GCC market insight to deliver integrated urban intelligence.",
-    "meetFounder": "Meet the Founder",
+    "description": "NCG Alpha is a multidisciplinary real estate and urban development platform bringing together six specialized entities that cover the full development spectrum — from market strategy to design, execution, education, innovation, and investment. Based in Riyadh and Dubai, NCG Alpha blends European academic rigor with GCC market insight to deliver integrated urban intelligence and transformative solutions for cities, developers, and investors.",
+    "meetTeam": "Meet Our Leadership",
     "viewResearch": "View Research & Publications"
   },
   "founder": {
-    "label": "Founder",
-    "title": "Leadership & Expertise",
-    "name": "Dr. Damien Nouvel – Founder & CEO of NCG Alpha",
-    "credentials": "PhD in Real Estate and Urban Economics | Former Associate Professor | 20 years of GCC and European experience.",
-    "description": "His research focuses on sustainable urbanism, PropTech, and city economies.",
-    "visitWebsite": "Visit Personal Website",
-    "viewProfile": "View Research Profile"
+    "label": "Leadership",
+    "title": "Leadership & Collective Expertise",
+    "subtitle": "25+ Years of Global Experience Across All Six Divisions of NCG",
+    "description": "NCG Alpha brings together a multidisciplinary team with a combined 25 years of proven experience across the GCC, Europe, and North America. Our expertise spans all six divisions of NCG — Advisory, Academy, PropTech, Studio, PM, and Investment — delivering strategic, data-driven, and innovative solutions to governments, developers, and investors.",
+    "expertiseIntro": "Our team and advisory board include senior leaders and international experts in:",
+    "expertise1": "Urban & Real Estate Strategy",
+    "expertise2": "PropTech & Digital Transformation",
+    "expertise3": "Sustainable Urbanism & ESG",
+    "expertise4": "Construction & Project Management",
+    "expertise5": "Planning, Design & Development",
+    "expertise6": "Investment, Asset Management & Valuation",
+    "ecosystem": "Explore the full ecosystem of visionaries and advisors shaping NCG's work.",
+    "advisoryBoard": "Meet Our Advisory Board",
+    "leadershipTeam": "Explore the NCG Leadership Team"
   },
   "insights": {
     "label": "Insights & Research",
@@ -74,7 +81,7 @@
   "contact": {
     "label": "Contact & Connect",
     "title": "Let's Build Something Intelligent",
-    "subtitle": "Reach out to us, info@ncgalpha.com",
+    "subtitle": "Reach out to us, <a href='mailto:info@ncgalpha.com'>info@ncgalpha.com</a>",
     "form": {
       "name": "Name",
       "email": "Email Address",
