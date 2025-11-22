@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "divisions": "Pôles",
+        "contact": "Contact"
+    },
+    "intro": {
+        "title": "L'Intelligence Urbaine Intégrée",
+        "subtitle": "Stratégie • Design • Réalisation • Innovation • Investissement • Éducation"
+    },
+    "divisions": {
+        "advisory": {
+            "title": "NCG Conseil",
+            "subtitle": "Façonner des Développements Intelligents",
+            "desc": "Le pôle stratégique de NCG Alpha fournissant des études de marché, des analyses 'Highest & Best Use', des études de faisabilité et des stratégies de développement.",
+            "list": ["Études de Marché & HBU", "Faisabilité Financière (TRI / VAN)", "Stratégie de Développement & Positionnement", "Structuration de JV & Conseil en Transaction"]
+        },
+        "studio": {
+            "title": "NCG Studio",
+            "subtitle": "Concevoir l'Intelligence Urbaine de Demain",
+            "desc": "Le pôle créatif transformant la recherche et la faisabilité en forme spatiale. NCG Studio livre des masterplans et des concepts architecturaux esthétiques, fonctionnels et financièrement viables.",
+            "list": ["Masterplanning & Design Urbain", "Concepts Architecturaux & Visualisation", "Placemaking & Espaces Publics", "Charte de Design & Intégration Durable"]
+        },
+        "pm": {
+            "title": "NCG Gestion de Projet",
+            "subtitle": "Livrer avec Précision",
+            "desc": "Le moteur de réalisation assurant que chaque projet conçu par NCG est construit de manière efficace et responsable. De l'appel d'offres à la livraison, NCG PM garantit les objectifs de coût, temps et qualité.",
+            "list": ["Gestion de Projet (PMO)", "Supervision de Chantier & QA/QC", "Contrôle des Coûts & Approvisionnement", "Conformité HSE & Développement Durable"]
+        },
+        "innovation": {
+            "title": "NCG Innovation",
+            "subtitle": "Bâtir le Futur avec la Data",
+            "desc": "La colonne vertébrale numérique de NCG Alpha — transformant les données immobilières en intelligence actionnable via des outils d'aide à la décision.",
+            "list": ["Tableaux de Bord Analytiques Immobiliers", "Outils de Simulation de Faisabilité", "Scoring & Benchmarking ESG", "Partenariats Smart-City & PropTech"]
+        },
+        "academy": {
+            "title": "NCG Académie",
+            "subtitle": "Quand le Savoir Rencontre la Pratique",
+            "desc": "Le pilier éducatif offrant des programmes exécutifs, des ateliers d'entreprise et des certifications en développement immobilier et innovation.",
+            "list": ["Certificat Exécutif en Gestion du Développement", "Bootcamp Modélisation Financière", "Formation Corporate pour Développeurs", "Recherche & Conférences (Partenaires ESPI / RICS)"]
+        },
+        "investment": {
+            "title": "NCG Investissement",
+            "subtitle": "Transformer l'Insight en Capital",
+            "desc": "La plateforme de capital et de partenariat investissant dans des développements intelligents et des startups PropTech. NCG Investment fait le pont entre l'analyse et la propriété.",
+            "list": ["Co-Développement & Structures JV", "Startups PropTech & ESG", "Fonds de Régénération Urbaine", "Conseil en Gestion d'Actifs"]
+        }
+    },
+    "contact": {
+        "label": "Contact & Connexion",
+        "title": "Bâtissons Quelque Chose d'Intelligent",
+        "subtitle": "Écrivez-nous à ",
+        "form": {
+            "name": "Nom",
+            "email": "Adresse Email",
+            "message": "Message",
+            "privacy": "J'accepte la politique de confidentialité",
+            "submit": "Envoyer le Message"
+        }
+    },
+    "footer": {
+        "copyright": "© NCG Alpha 2025 | Tous Droits Réservés"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "home": "Home",
+        "divisions": "Divisions",
+        "contact": "Contact"
+    },
+    "intro": {
+        "title": "Integrated Urban Intelligence",
+        "subtitle": "Strategy • Design • Delivery • Innovation • Investment • Education"
+    },
+    "divisions": {
+        "advisory": {
+            "title": "NCG Advisory",
+            "subtitle": "Shaping Intelligent Developments",
+            "desc": "The strategic arm of NCG Alpha providing market research, highest-and-best-use studies, feasibility analysis, and development strategy.",
+            "list": ["Market & HBU Studies", "Financial Feasibility (IRR / NPV)", "Development Strategy & Positioning", "JV Structuring & Transaction Advisory"]
+        },
+        "studio": {
+            "title": "NCG Studio",
+            "subtitle": "Designing the Urban Intelligence of Tomorrow",
+            "desc": "The creative hub transforming research and feasibility into spatial form. NCG Studio delivers masterplans and concept designs that are beautiful, functional, and financially sound.",
+            "list": ["Masterplanning & Urban Design", "Architectural Concepts & Visualization", "Placemaking & Public Realm", "Design Guidelines & Sustainability Integration"]
+        },
+        "pm": {
+            "title": "NCG PM",
+            "subtitle": "Delivering Precision",
+            "desc": "The delivery engine ensuring that every NCG-conceived project is built efficiently and responsibly. From tender to handover, NCG PM secures cost, time, and quality objectives.",
+            "list": ["Project Management (PMO)", "Construction Supervision & QA/QC", "Cost Control & Procurement", "HSE & Sustainability Compliance"]
+        },
+        "innovation": {
+            "title": "NCG Innovation",
+            "subtitle": "Building the Future with Data",
+            "desc": "The digital backbone of NCG Alpha — transforming property data into actionable intelligence. NCG Innovation develops tools to power better decisions.",
+            "list": ["Real-Estate Analytics Dashboards", "Feasibility Simulation Tools", "ESG Scoring & Benchmarking", "Smart-City & PropTech Partnerships"]
+        },
+        "academy": {
+            "title": "NCG Academy",
+            "subtitle": "Where Knowledge Meets Practice",
+            "desc": "The educational pillar offering executive programs, corporate workshops, and certifications in real-estate development and innovation.",
+            "list": ["Executive Certificate in Development Management", "Financial Modelling Bootcamp", "Corporate Training for Developers & Funds", "Research & Conferences (ESPI / RICS Partners)"]
+        },
+        "investment": {
+            "title": "NCG Investment",
+            "subtitle": "Turning Insight into Equity",
+            "desc": "The capital and partnership platform investing in intelligent developments and PropTech ventures. NCG Investment bridges analysis and ownership.",
+            "list": ["Co-Development & JV Structures", "PropTech & ESG Startups", "Urban Regeneration Funds", "Asset Management Advisory"]
+        }
+    },
+    "contact": {
+        "label": "Contact & Connect",
+        "title": "Let's Build Something Intelligent",
+        "subtitle": "Reach out to us, ",
+        "form": {
+            "name": "Name",
+            "email": "Email Address",
+            "message": "Message",
+            "privacy": "I agree to the privacy policy",
+            "submit": "Send Message"
+        }
+    },
+    "footer": {
+        "copyright": "© NCG Alpha 2025 | All Rights Reserved"
+    }
+}
